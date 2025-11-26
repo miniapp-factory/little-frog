@@ -1,0 +1,76 @@
+
+# 2025-11-26 15:32:25.634157
++Code the following app
++```
++Guide the mouse to escape the cat and find the cheese located in a maze
++
++Mouse "mouse emoji"
++The player controls the mouse with BIG arrow buttons that are
++ "up" "down" "left" "right"
++ "located" below game board.
++
++Cat "cat emoji"
++Computer controls "cat"
++Cat moves towards mouse at "medium fast" speed  
++Cat "starts" opposite side of maze. Cat can only move "up" "down" "left" "right" 
++
++Maze dimensions "10x10"
++Color of the maze is "Green"
++Randomly placed Obstacles are "brown "
++
++Obstacles "change locations" every new game 
++
++Cat and mouse can NOT move through obstacles 
++
++Win spot "cheese emoji" 
++Located  opposite of mouse "start" position 
++
++Cat does not "start chase" until mouse moves "two spots"
++
++If mouse lands on "cheese emoji" player "wins" If cat catches mouse player "loses"
++
++"Try Again" button located under arrow buttons at all "times"
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-26 15:32:25.634731
++Code the following app
++```
++Guide the mouse to escape the cat and find the cheese located in a maze
++
++Mouse "mouse emoji"
++The player controls the mouse with BIG arrow buttons that are
++ "up" "down" "left" "right"
++ "located" below game board.
++
++Cat "cat emoji"
++Computer controls "cat"
++Cat moves towards mouse at "medium fast" speed  
++Cat "starts" opposite side of maze. Cat can only move "up" "down" "left" "right" 
++
++Maze dimensions "10x10"
++Color of the maze is "Green"
++Randomly placed Obstacles are "brown "
++
++Obstacles "change locations" every new game 
++
++Cat and mouse can NOT move through obstacles 
++
++Win spot "cheese emoji" 
++Located  opposite of mouse "start" position 
++
++Cat does not "start chase" until mouse moves "two spots"
++
++If mouse lands on "cheese emoji" player "wins" If cat catches mouse player "loses"
++
++"Try Again" button located under arrow buttons at all "times"
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-26 15:33:33.026737
++apply changes
+
+# 2025-11-26 15:33:33.027145
++apply changes
