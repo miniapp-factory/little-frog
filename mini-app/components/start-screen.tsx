@@ -14,6 +14,9 @@ export default function StartScreen({
       <Button onClick={onStart} size="lg" className="bg-red-500">
         Start Game
       </Button>
+      <p className="text-red-500 text-center">
+        (Find the Cheese before the Cat finds You. Sometimes the Cat runs straight at you, other times he waits to pounce. Good Luck)
+      </p>
     </div>
   );
 }
