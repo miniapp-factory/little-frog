@@ -1,3 +1,4 @@
+"use client";
 import { description, title } from "@/lib/metadata";
 import { generateMetadata } from "@/lib/farcaster-embed";
 import MazeGame from "@/components/maze-game";
